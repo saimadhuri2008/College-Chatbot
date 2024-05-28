@@ -1,0 +1,94 @@
+{
+    "intents": [{
+            "tag": "greeting",
+            "patterns": ["Hi there", "How are you", "Is anyone there?", "Hey", "Hola", "Hello", "Good day"],
+            "responses": ["Hello, thanks for asking", "Good to see you", "Hey there, how can I help?"],
+            "context": [""]
+        },
+        {
+            "tag": "goodbye",
+            "patterns": ["Bye", "See you later", "Goodbye", "Nice chatting to you, bye", "Till next time"],
+            "responses": ["See you!", "Have a nice day", "Bye! Come back again soon."],
+            "context": [""]
+        },
+        {
+            "tag": "thanks",
+            "patterns": ["Thanks", "Thank you", "That's helpful", "Awesome, thanks", "Thanks for helping me"],
+            "responses": ["Happy to help!", "Any time!", "My pleasure"],
+            "context": [""]
+        },
+        {
+            "tag": "fuck",
+            "patterns": ["fuck you", "not correct", "incorrect response", "Your response is not perfect", "really bad answer"],
+            "responses": ["There is always a room for improvement. Mail : gauravkabra.official@gmail.com"],
+            "context": [""]
+        },
+        {
+            "tag": "options",
+            "patterns": ["Who are you?", "How you could help me?", "What you can do?", "What help you provide?", "How you can be helpful?", "What support is offered"],
+            "responses": ["Hi! I am KIARA...Keras Implemented Advanced Ready Assistant. I will clear your doubts about our college MREC :)"],
+            "context": [""]
+        },
+        {
+            "tag": "father",
+            "patterns": ["Who made you?", "Who is your father", "Your father name", "Do you have father or mother"],
+            "responses": ["Sravallika made me in May 2024"],
+            "context": [""]
+        },
+        {
+            "tag": "scholarship",
+            "patterns": ["Where should i go for scholarship docs submission", "Where is scholarship department", "whom to contact for queries of scholarship"],
+            "responses": ["You can contact the scholarship counter present in admin office for any queries regarding scholarship"],
+            "context": [""]
+        },
+        {
+            "tag": "memos",
+            "patterns": ["where are memos given?", "I need my memos", "who will give memos", "where can i get my memos and certificates"],
+            "responses": ["Examination block which is there to the right side of admin office"],
+            "context": [""]
+        },
+        {
+            "tag": "transport",
+            "patterns": ["Where can i get all the transport details of mrec","buses details ", "where should i pay transport fee", "i should meet transport officer"],
+            "responses": ["Visit Transport office which is near the stationary"],
+            "context": [""]
+        },
+        {
+            "tag": "founded_established",
+            "patterns": ["History of MREC", "When was MREC founded", "Who established MREC", "By whom was MREC founded or established"],
+            "responses": ["CH.Malla Reddy,  in 2002, founded MREC in 2002 in his own name."],
+            "context": [""]
+        },
+        {
+            "tag":"canteen",
+            "patterns": ["best food in mrec", "where can i get some coffee in mrec", "i need to have lunch", "where is the cafeteria", "where can i find a canteen to eat food"],
+            "responses": ["Hey, you can visit the canteen which is beside the major auditorium"],
+            "context": [""]
+        },
+        {
+            "tag": "exams",
+            "patterns": ["I was allotted the seating in mrec to write my govt. exam, where should i go?"],
+            "responses": ["Walk straight towards the mechanical block to find an officer, good luck for your exam."],
+            "context": [""]
+        },
+        {
+            "tag": "events",
+            "patterns": ["Heard that there's an event in mrec , wheres it?", "Where is the evnt happening?"],
+            "responses": ["please walk straight to the major auditorium in the entrance, have fun in the event"],
+            "context": [""]
+        },
+        {
+            "tag": "principal",
+            "patterns": ["Where can i meet the principal", "Where will the principal present"],
+            "responses": ["in the principal office right beside the library"],
+            "context": [""]
+        },
+        
+        {
+            "tag": "timings",
+            "patterns": ["What are the working hours of mrec?"],
+            "responses": ["9:30 am to 4:15pm"],
+            "context": [""]
+        }
+    ]
+}
