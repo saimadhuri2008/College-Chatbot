@@ -1,2 +1,2 @@
-# College-Chatbot
-This chatbot is built in order to help any newbees entering into the collage regarding any of the seravices or the enquiries about what , where and who.
+# College-Chatbot KIAR : Keras implemented advanced ready assistant
+This chatbot is designed to assist newcomers at the college by providing information about various services, answering inquiries about locations, and offering guidance on who to contact for specific needs. It aims to make the transition for new students smoother and help them navigate college life more efficiently.
