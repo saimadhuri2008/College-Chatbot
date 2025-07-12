@@ -4,21 +4,18 @@ KIARA: Good to see you
 
 You: what can you do for me
 
-KIARA: Hi! I am KIARA...Keras Implemented Advanced Ready Assistant. I will clear your doubts about your city Laxmangarh :)
+KIARA: Hi! I am KIARA...Keras Implemented Advanced Ready Assistant. I will clear your doubts about your city MRDU :)
 
-You: tell me about fort
+You: tell me about MRDU
 
-KIARA: built by Rao Raja of Sikar, Laxman Singh in 1862
+KIARA:Malla Reddy Deemed to be University founded by Malla Reddy in the year 2002.
 
-You: laxmangarh's founding history
+You: What are the working hours of mrec?
 
-KIARA: Rao Raja of Sikar, Laxman Singh in 1862, founded Laxmangarh in 1864 in his own name.
+KIARA: 9:30 am to 4:15pm
 
-You: unique fact about laxmangarh?
+KIARA: Madhuri made me in May 2025
 
-KIARA: The fort of Laxmangarh is a unique piece of fort architecture in the whole world because the structure is built upon scattered pieces of huge rocks.
+You: When did Mrec has become Deemed to be University?
 
-You: who made you?
-
-KIARA: Gaurav Kabra made me in May 2020
-
+KIARA: MREC has become MRDU very recently in the year 2024
