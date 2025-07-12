@@ -2,7 +2,7 @@
  KIARA - Keras Implemented Advanced Ready Assistant is there to know about our college MREC.
 
 # Author
-**Sravallika**
+**Sai Madhuri**
 
 # Implementation
 If you are not using .py files, use IPYNB folder which has equivalent .ipynb files.
